@@ -1,0 +1,56 @@
+body {
+  overflow-x: hidden;
+}
+
+
+#nav-tag {
+  height: 80px;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+
+#logo {
+  width: 70px;
+  border-radius: 50%;
+}
+.hero-container {
+  width: 100vw;
+  height: 60vh;
+  background: url("assets/images/bg-1.avif");
+  background-position: center;
+  background-size: cover;
+}
+.heading {
+  color: brown;
+  font-size: 2.6rem;
+  font-weight: 700;
+  font-family: serif;
+}
+.t-brown {
+  color: brown;
+}
+.w-100-px {
+  width: 100px;
+}
+.h-80-px {
+  height: 80px;
+}
+.height-100 {
+  height: 100%;
+}
+.width-100 {
+  width: 100%;
+}
+.border-brown {
+  border: 1px solid brown;
+}
+
+.contact-content {
+  overflow: hidden;
+}
+.width-40 {
+  width: 40%;
+}
