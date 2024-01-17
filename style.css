@@ -2,7 +2,6 @@ body {
   overflow-x: hidden;
 }
 
-
 #nav-tag {
   height: 80px;
   width: 100vw;
@@ -53,4 +52,9 @@ body {
 }
 .width-40 {
   width: 40%;
+}
+@media screen and (max-width: 768px) {
+  .width-40 {
+    width: 80%;
+  }
 }
