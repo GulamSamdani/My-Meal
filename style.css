@@ -2,12 +2,12 @@ body {
   overflow-x: hidden;
 }
 body::-webkit-scrollbar {
-  width: 15px;
+  width: 10px;
   background-color: rgb(248, 220, 220);
   border-radius: 5px;
 }
 body::-webkit-scrollbar-thumb {
-  border-radius: 10px;
+  border-radius: 8px;
   background-color: rgb(211, 122, 122);
 }
 #nav-tag {
